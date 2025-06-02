@@ -36,7 +36,7 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre un conjunto
 
 ---
 
-📊 Resultados destacados
+📊 RESULTADOS DESTACADOS
 
 El 26% de los clientes se dio de baja.
 
@@ -44,7 +44,7 @@ Los contratos mensuales y los pagos por electronic check están fuertemente asoc
 
 Los clientes con menor permanencia y mayor gasto diario tienen más probabilidad de cancelar.
 
-🧾 Recomendaciones estratégicas
+🧾 RECOMENDACIONES ESTRÁTEGICAS
 
 Incentivar contratos a largo plazo con descuentos.
 
